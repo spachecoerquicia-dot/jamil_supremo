@@ -1,0 +1,3 @@
+numero = input("numero")
+alreves = numero[::-1]
+print(alreves)
